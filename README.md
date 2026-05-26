@@ -2,9 +2,9 @@
 
 ## Context
 
-This is a simplified excerpt from a real production codebase. The stack is:
+This is a simplified excerpt from the production codebase. The stack is:
 
-- **Backend**: Django (Python) with async views via `adrf`, Pydantic-based serializers via `drf-pydantic`, and PostgreSQL
+- **Backend**: Django (Python) with async views via `adrf`, Pydantic-based serializers via `drf-pydantic`, and SQLite (though we use PostgreSQL in our live stack)
 - **Frontend**: Next.js (React/TypeScript) using a type-safe auto-generated SDK
 
 ## The Feature
@@ -37,7 +37,7 @@ Be prepared to:
 1. Explain what each file does and how they connect
 2. Describe the bug(s) you found, why they cause the failure, and what the correct behaviour should be
 3. Show the fixed code
-4. Walk through how you used any tools (including AI) to investigate
+4. Walk through how you used any tools to investigate. Show transcripts from AI coding tools and discuss prompts and AI tool use.
 
 ## Notes
 
