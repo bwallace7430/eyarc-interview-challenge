@@ -78,8 +78,6 @@ npm run dev
 
 Open **http://localhost:3000** — it redirects to the resource page automatically.
 
-API docs are available at **http://localhost:8000/api/docs**.
-
 ### Resetting the database
 
 To wipe all submitted reviews and start fresh:
